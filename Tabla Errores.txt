@@ -1,0 +1,37 @@
+Linea      Tipo                                Lexema              
+1          PALABRA RESERVADA INVALIDA          if                  
+1          PALABRA RESERVADA INVALIDA          else                
+1          PALABRA RESERVADA INVALIDA          while               
+1          PALABRA RESERVADA INVALIDA          for                 
+1          PALABRA RESERVADA INVALIDA          int                 
+1          PALABRA RESERVADA INVALIDA          float               
+1          PALABRA RESERVADA INVALIDA          return              
+3          PALABRA RESERVADA INVALIDA          a                   
+3          PALABRA RESERVADA INVALIDA          b                   
+3          PALABRA RESERVADA INVALIDA          c                   
+3          PALABRA RESERVADA INVALIDA          d                   
+3          PALABRA RESERVADA INVALIDA          e                   
+3          PALABRA RESERVADA INVALIDA          f                   
+3          PALABRA RESERVADA INVALIDA          g                   
+4          PALABRA RESERVADA INVALIDA          a                   
+4          PALABRA RESERVADA INVALIDA          b                   
+4          PALABRA RESERVADA INVALIDA          c                   
+4          PALABRA RESERVADA INVALIDA          d                   
+4          PALABRA RESERVADA INVALIDA          e                   
+4          PALABRA RESERVADA INVALIDA          f                   
+4          PALABRA RESERVADA INVALIDA          g                   
+4          PALABRA RESERVADA INVALIDA          h                   
+4          PALABRA RESERVADA INVALIDA          i                   
+4          PALABRA RESERVADA INVALIDA          j                   
+4          PALABRA RESERVADA INVALIDA          k                   
+4          PALABRA RESERVADA INVALIDA          l                   
+4          PALABRA RESERVADA INVALIDA          m                   
+4          PALABRA RESERVADA INVALIDA          n                   
+4          PALABRA RESERVADA INVALIDA          o                   
+4          PALABRA RESERVADA INVALIDA          p                   
+5          IDENTIFICADOR INVALIDO              @var1               
+8          PALABRA RESERVADA INVALIDA          a                   
+9          PALABRA RESERVADA INVALIDA          a                   
+9          PALABRA RESERVADA INVALIDA          b                   
+9          PALABRA RESERVADA INVALIDA          x                   
+9          PALABRA RESERVADA INVALIDA          y                   

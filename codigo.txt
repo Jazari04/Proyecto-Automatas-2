@@ -1,0 +1,6 @@
+si (x < 10) {
+    escribir(x);
+}
+mientras (x <= 5) {
+    leer(x);
+}
